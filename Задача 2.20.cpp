@@ -1,5 +1,4 @@
-
-#include <iostream>
+ï»¿#include <iostream>
 #include <math.h>
 using namespace std;
 int main()
@@ -24,6 +23,6 @@ int main()
 	}
 	if (flag)
 	{
-		cout << "Ýëåìåíò" << z << "íàéäåí. Åãî íîìåð:" << i << endl;
+		cout << "ÃÃ«Ã¥Ã¬Ã¥Ã­Ã²" << z << "Ã­Ã Ã©Ã¤Ã¥Ã­. Ã…Ã£Ã® Ã­Ã®Ã¬Ã¥Ã°:" << i << endl;
 	}
 }
