@@ -23,6 +23,6 @@ int main()
 	}
 	if (flag)
 	{
-		cout << "Ýëåìåíò" << z << "íàéäåí. Åãî íîìåð:" << i << endl;
+		cout << z << i << endl;
 	}
 }
